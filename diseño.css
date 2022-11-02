@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background: linear-gradient(150deg,  #fd0303, #ffffff, #fc0202 );
+     height: 100vh;
+}
+.formulario {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 420px;
+    height: 530px;
+    background: white;
+    border-radius: 10px;
+}
+.formulario h1{
+    text-align: center;
+    padding: 0 0 20px 0;
+    border-bottom: 1px solid silver;
+}
+.cronometro {
+    margin: 30px 0;
+    transform: translate(0%, 100%);
+    text-align: center;
+    font-size: 70px;
+}
+#boton0{
+    background-color: rgb(88, 255, 4);
+    border-color: rgb(76, 0, 252);
+    font-size: 30px;
+    transform: translate(-50%, 245%);
+}
+#boton1{
+    background-color: rgb(4, 217, 255);
+    border-color: rgb(252, 25, 0);
+    font-size: 30px;
+    transform: translate(55%, 245%);
+}
+.registrarse{
+    transform: translate(-0%, 70%);
+    margin: 30px 0;
+    text-align: center;
+    font-size: 22px;
+}
+.cronometro {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -140%);
+    width: 400px;
+    height: 140px;
+    background: rgb(255, 3, 3);
+    border-radius: 60px;
+}
+.formulario img{
+  position: absolute;
+  transform: translate(20%, -160%);
+  width: 70px;
+  height: 70px;
+}
+.formulario img{
+    position: absolute;
+    transform: translate(20%, -160%);
+    width: 70px;
+    height: 70px;
+  }
+  .hola{
+
+    position: absolute;
+    transform: translate(400%, -467%);
+    width: 70px;
+    height: 70px;
+
+  }
+
+
